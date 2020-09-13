@@ -1,0 +1,2 @@
+subliminal==2.1.0
+PyGobject==1.16.2
