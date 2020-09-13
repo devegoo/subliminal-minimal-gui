@@ -59,6 +59,8 @@ if [[ $? != 0 ]]; then
     printf "Error: pip requirements installation fail.\n\n"
     exit 1
 fi
-
+mkdir /opt/subliminal-minimal-gui
+mv config.ini smg.png subliminal-minimal-gui.py LICENSE README.md /opt/subliminal-minimal-gui/
+mv subliminal-minimal-gui /usr/bin/
 printf "\nEverything has been successfully installed.\n\n"
 exit 0
