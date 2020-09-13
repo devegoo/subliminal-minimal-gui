@@ -1,2 +1,3 @@
 #!/bin/bash
-python3 /opt/subliminal-minimal-gui/subliminal-minimal-gui.py
+cd /opt/subliminal-minimal-gui/
+/usr/bin/python3 subliminal-minimal-gui.py
