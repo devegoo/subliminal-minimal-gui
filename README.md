@@ -1,3 +1,7 @@
+My changes :
+- added Polish to supported languages / NapiProjekt 
+- removed obsolote providers to current state / https://subliminal.readthedocs.io/en/latest/api/providers.html#
+
 # Subliminal-Minimal-Gui
 
 ## A simple Graphical User Interface for Subliminal.
